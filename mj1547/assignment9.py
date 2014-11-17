@@ -40,9 +40,7 @@ def main():
     
     for year in range(2007,2012):
         Boxplot(merge_by_year(year))
-        plt.savefig('boxplot_%d.png' %(year))
         HistRegionplot(merge_by_year(year))
-        plt.savefig('hist_region_income_%d.png' %(year))
     '''
     there is a reslut txt to describe data
     '''
