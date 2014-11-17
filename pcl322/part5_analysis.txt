@@ -1,0 +1,9 @@
+From the plots we can see that, for the past five years, Oceania 
+and South America are similar with median income, as well as Europe
+and North America are similar with relatively high income. Africa
+has the lowest income average and Asia has the most large differece
+between max and min income. The changes within these years are not
+significant among Africa, Asia, South America, and Oceania, but
+noticeable for Europe and North America. The overall incomes increase
+during 2008 to 2010 for both two regions. However they drop in 2011
+and tend severely in 2012. 
