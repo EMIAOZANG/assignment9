@@ -31,11 +31,13 @@ def merge_by_year(year):
     return merge_df
 
 def Q5_hist(df):
+    #create histograms to explore the distributions of income in regions
     plt.figure()
     df.hist('Income', by=df['Region'], xlabelsize = 8, ylabelsize = 8)    
     
     
 def Q5_boxplot(df):
+    #create boxplots to explore the distributions of income in regions
     plt.figure()
     df.boxplot('Income', by = 'Region')
 
