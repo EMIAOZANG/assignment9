@@ -1,0 +1,9 @@
+by the box plot:
+ I find, Asia and South America has an increasing mean Gdp.
+Europe has a decrease trend in recent 5 years
+ generally speaking Europe and North America have higher GDP 
+
+by histogram plt:
+ the distribition for each region does not change obviously
+asia and Africa both show a increasing GDP curve
+ some countries with a high income, and major of countries with a low income
