@@ -20,7 +20,7 @@ def question3():
     plt.xlabel('Income per Person')
     plt.title('Distribution of income per person in 2000')
     plt.savefig('histogram of distribution of income ')
-    plt.show
+    plt.show()
 
 def merge_by_year(year):
     '''This function merges the countries and income data sets for 
