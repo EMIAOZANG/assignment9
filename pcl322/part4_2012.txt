@@ -1,0 +1,195 @@
+                              Country         Region        Income
+0                             Algeria         AFRICA   6419.127829
+1                              Angola         AFRICA   5838.155376
+2                               Benin         AFRICA   1464.138255
+3                            Botswana         AFRICA  14045.940330
+4                             Burkina         AFRICA      0.000000
+5                             Burundi         AFRICA    484.090925
+6                            Cameroon         AFRICA   2094.095413
+7                          Cape Verde         AFRICA   3896.041139
+8            Central African Republic         AFRICA      0.000000
+9                                Chad         AFRICA   1768.882018
+10                            Comoros         AFRICA   1027.408543
+11                              Congo         AFRICA      0.000000
+12      Congo, Democratic Republic of         AFRICA      0.000000
+13                           Djibouti         AFRICA   2244.602414
+14                              Egypt         AFRICA   6013.821463
+15                  Equatorial Guinea         AFRICA  13499.211550
+16                            Eritrea         AFRICA    613.716964
+17                           Ethiopia         AFRICA    958.694706
+18                              Gabon         AFRICA  13853.461660
+19                             Gambia         AFRICA    747.680969
+20                              Ghana         AFRICA   1728.478474
+21                             Guinea         AFRICA    965.699260
+22                      Guinea-Bissau         AFRICA    593.074251
+23                        Ivory Coast         AFRICA      0.000000
+24                              Kenya         AFRICA   1517.697544
+25                            Lesotho         AFRICA   1970.471149
+26                            Liberia         AFRICA    499.809082
+27                              Libya         AFRICA   9136.344625
+28                         Madagascar         AFRICA    981.478675
+29                             Malawi         AFRICA    848.191014
+30                               Mali         AFRICA   1070.551528
+31                         Mauritania         AFRICA   1898.351921
+32                          Mauritius         AFRICA  13082.775080
+33                            Morocco         AFRICA   4514.519936
+34                         Mozambique         AFRICA   1058.441929
+35                            Namibia         AFRICA   5535.836742
+36                              Niger         AFRICA    706.794248
+37                            Nigeria         AFRICA   2483.989409
+38                             Rwanda         AFRICA   1223.525709
+39              Sao Tome and Principe         AFRICA   1927.702511
+40                            Senegal         AFRICA   1753.488009
+41                         Seychelles         AFRICA  17237.461170
+42                       Sierra Leone         AFRICA   1072.957879
+43                            Somalia         AFRICA    953.275714
+44                       South Africa         AFRICA   9657.252754
+45                        South Sudan         AFRICA   1433.037201
+46                              Sudan         AFRICA   2917.616416
+47                          Swaziland         AFRICA   4979.704127
+48                           Tanzania         AFRICA   1330.056145
+49                               Togo         AFRICA    975.396853
+50                            Tunisia         AFRICA   7620.470565
+51                             Uganda         AFRICA   1251.098070
+52                             Zambia         AFRICA   1550.923859
+53                           Zimbabwe         AFRICA    545.344601
+54                        Afghanistan           ASIA   1349.696941
+55                            Bahrain           ASIA  24472.896240
+56                         Bangladesh           ASIA   1792.550235
+57                             Bhutan           ASIA   6130.862355
+58                             Brunei           ASIA  45658.253260
+59                              Burma           ASIA      0.000000
+60                           Cambodia           ASIA   2076.689586
+61                              China           ASIA   8346.867309
+62                         East Timor           ASIA      0.000000
+63                              India           ASIA   3229.147887
+64                          Indonesia           ASIA   4379.699819
+65                               Iran           ASIA  12325.128030
+66                               Iraq           ASIA   4160.847088
+67                             Israel           ASIA  27321.205180
+68                              Japan           ASIA  31273.993200
+69                             Jordan           ASIA   5242.518262
+70                         Kazakhstan           ASIA  11982.652670
+71                       Korea, North           ASIA      0.000000
+72                       Korea, South           ASIA      0.000000
+73                             Kuwait           ASIA  42045.059240
+74                         Kyrgyzstan           ASIA   2078.208242
+75                               Laos           ASIA   2807.047526
+76                            Lebanon           ASIA  13711.975680
+77                           Malaysia           ASIA  14202.211940
+78                           Maldives           ASIA   6046.468208
+79                           Mongolia           ASIA   4300.133269
+80                              Nepal           ASIA   1264.492645
+81                               Oman           ASIA  26292.848070
+82                           Pakistan           ASIA   2681.120782
+83                        Philippines           ASIA   3677.101975
+84                              Qatar           ASIA  91492.645270
+85                 Russian Federation           ASIA      0.000000
+86                       Saudi Arabia           ASIA  26259.621350
+87                          Singapore           ASIA  49381.956010
+88                          Sri Lanka           ASIA   5182.666588
+89                              Syria           ASIA   4432.015539
+90                         Tajikistan           ASIA   1952.100427
+91                           Thailand           ASIA   8451.159641
+92                             Turkey           ASIA   9287.293125
+93                       Turkmenistan           ASIA   7921.274062
+94               United Arab Emirates           ASIA  31980.241440
+95                         Uzbekistan           ASIA   3117.273866
+96                            Vietnam           ASIA   3073.649612
+97                              Yemen           ASIA      0.000000
+98                            Albania         EUROPE   6969.306283
+99                            Andorra         EUROPE      0.000000
+100                           Armenia         EUROPE   5059.087964
+101                           Austria         EUROPE  36731.628770
+102                        Azerbaijan         EUROPE   9291.026270
+103                           Belarus         EUROPE  13515.161030
+104                           Belgium         EUROPE  32585.011970
+105            Bosnia and Herzegovina         EUROPE   7664.152812
+106                          Bulgaria         EUROPE  11669.722310
+107                           Croatia         EUROPE  13388.990280
+108                            Cyprus         EUROPE  23092.089790
+109                    Czech Republic         EUROPE      0.000000
+110                           Denmark         EUROPE  32731.290390
+111                           Estonia         EUROPE  18858.053820
+112                           Finland         EUROPE  31551.953450
+113                            France         EUROPE  29896.418220
+114                           Georgia         EUROPE   4943.238143
+115                           Germany         EUROPE  34131.874600
+116                            Greece         EUROPE  21811.330250
+117                           Hungary         EUROPE  17065.604730
+118                           Iceland         EUROPE  34371.179370
+119                           Ireland         EUROPE  35856.109910
+120                             Italy         EUROPE  25811.739330
+121                            Latvia         EUROPE  15575.276280
+122                     Liechtenstein         EUROPE      0.000000
+123                         Lithuania         EUROPE  18469.974820
+124                        Luxembourg         EUROPE  68706.381790
+125                         Macedonia         EUROPE      0.000000
+126                             Malta         EUROPE  22460.896830
+127                           Moldova         EUROPE   2963.993060
+128                            Monaco         EUROPE      0.000000
+129                        Montenegro         EUROPE  10064.160940
+130                       Netherlands         EUROPE  36257.087400
+131                            Norway         EUROPE  47383.624530
+132                            Poland         EUROPE  17851.947770
+133                          Portugal         EUROPE  19576.410840
+134                           Romania         EUROPE  11058.180970
+135                        San Marino         EUROPE      0.000000
+136                            Serbia         EUROPE   9335.959115
+137                          Slovakia         EUROPE      0.000000
+138                          Slovenia         EUROPE  23986.850680
+139                             Spain         EUROPE  26457.757260
+140                            Sweden         EUROPE  34530.262820
+141                       Switzerland         EUROPE  37678.392810
+142                           Ukraine         EUROPE   6389.585973
+143                    United Kingdom         EUROPE  31295.143150
+144                      Vatican City         EUROPE      0.000000
+145               Antigua and Barbuda  NORTH AMERICA  13722.986160
+146                           Bahamas  NORTH AMERICA  21418.229810
+147                          Barbados  NORTH AMERICA  16233.413790
+148                            Belize  NORTH AMERICA   7550.138241
+149                            Canada  NORTH AMERICA  35992.832720
+150                        Costa Rica  NORTH AMERICA  10827.678730
+151                              Cuba  NORTH AMERICA  10197.419190
+152                          Dominica  NORTH AMERICA  10232.718800
+153                Dominican Republic  NORTH AMERICA      0.000000
+154                       El Salvador  NORTH AMERICA   5833.630228
+155                           Grenada  NORTH AMERICA   8529.685641
+156                         Guatemala  NORTH AMERICA   5290.752027
+157                             Haiti  NORTH AMERICA   1180.367196
+158                          Honduras  NORTH AMERICA   3615.156580
+159                           Jamaica  NORTH AMERICA   6945.702747
+160                            Mexico  NORTH AMERICA  12030.386210
+161                         Nicaragua  NORTH AMERICA   3098.483517
+162                            Panama  NORTH AMERICA  13607.143360
+163             Saint Kitts and Nevis  NORTH AMERICA  12659.632230
+164                       Saint Lucia  NORTH AMERICA  10541.447560
+165  Saint Vincent and the Grenadines  NORTH AMERICA   6975.140224
+166               Trinidad and Tobago  NORTH AMERICA  17182.095460
+167                     United States  NORTH AMERICA  42296.231650
+168                         Australia        OCEANIA  36064.737280
+169                              Fiji        OCEANIA   4195.034972
+170                          Kiribati        OCEANIA   3063.645953
+171                  Marshall Islands        OCEANIA   6409.365247
+172                        Micronesia        OCEANIA      0.000000
+173                             Nauru        OCEANIA      0.000000
+174                       New Zealand        OCEANIA  25223.535140
+175                             Palau        OCEANIA      0.000000
+176                  Papua New Guinea        OCEANIA   2391.579512
+177                             Samoa        OCEANIA   5062.108255
+178                   Solomon Islands        OCEANIA   2024.230673
+179                             Tonga        OCEANIA   4932.978063
+180                            Tuvalu        OCEANIA      0.000000
+181                           Vanuatu        OCEANIA   3940.923984
+182                         Argentina  SOUTH AMERICA  15714.103180
+183                           Bolivia  SOUTH AMERICA   4363.432645
+184                            Brazil  SOUTH AMERICA  10383.540590
+185                             Chile  SOUTH AMERICA  15403.760810
+186                          Colombia  SOUTH AMERICA   8035.656382
+187                           Ecuador  SOUTH AMERICA   7903.094870
+188                            Guyana  SOUTH AMERICA   4265.106449
+189                          Paraguay  SOUTH AMERICA   4467.158725
+190                              Peru  SOUTH AMERICA   9277.570760
+191                          Suriname  SOUTH AMERICA   8979.805492
+192                           Uruguay  SOUTH AMERICA  13179.231080
+193                         Venezuela  SOUTH AMERICA  11685.177190
