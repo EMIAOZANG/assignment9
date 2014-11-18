@@ -1,0 +1,5 @@
+1. The average income of ASIA, EUROPE and SOUTH AMERICA has increased rapidly. At the mean time, the income of other region only increased slightly
+2. The median income of EUROPE decrease during recent years.
+3. The max income of ASIA increase rapidly, and it almost catch up with EUROPE
+4. The min income of SOUTH AMERICA and ERUROPE have a great increase. 
+5. Generally, EUROPE has the highest income level over all the other regions.
