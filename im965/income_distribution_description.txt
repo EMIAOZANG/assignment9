@@ -1,0 +1,16 @@
+#Assignment 9, Israel Malkin (im965)
+#This file contains a description of the trends in global income distribution
+
+Looking at the plot describing the overall income distribution across the regions, we can see that
+the richer regions had widened the gap relative to the poorer regions since 2000. Then, once the global
+financial crisis hit, almost all the regions saw a downward movement in the median-country income, excluding Oceania.
+
+In South America, the gap has widened with most of the income growth since 2000 occuring in the top half of the distribution.
+In Oceania, basically all of the income gains since 2000 have occured in the richest country, which is Australia.
+The distribution of wealth has stayed fairly constant in North America, and one can see that income growth overall has been stagnant.
+Asia's poorer countries have not increased their wealth at all since 2000, all of the income gain accrued to the richest country, which
+was hit hard by the global financial crisis which started in 2008.
+The distribution of income has stayed fairly constant in Europe since 2000, and we can see that overall since 2000 wealth growth has been very weak.
+Again, this can be attributed the the global financial crisis, along with the European Banking Crisis which followed in 2009.
+The small amount of of growth in GDP per capita in Africa has been flowing towards that region's richest country. The bottom half of countries in 
+Africa, in terms of income per person, have not increased thier wealth at all since the year 2000.
