@@ -74,8 +74,8 @@ for region in regions:
 plt.figure()
 summary = summary.swaplevel(1,0,axis=1)
 summary['50%'].plot()
-plt.title('Mean Income by Region')
-plt.savefig('mean_by_region.png')
+plt.title('Median Income by Region')
+plt.savefig('median_by_region.png')
 plt.close()
     
     
