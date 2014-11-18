@@ -116,8 +116,8 @@ if __name__ == "__main__":
 
 	print "========== Part 1 =========="
 	#Read the datasets from each csv
-	countries = pd.DataFrame.from_csv("../countries.csv")
-	income = pd.DataFrame.from_csv("../indicator_gapminder_gdp_per_capita_ppp.csv")
+	countries = pd.DataFrame.from_csv("countries.csv")
+	income = pd.DataFrame.from_csv("indicator_gapminder_gdp_per_capita_ppp.csv")
 	print "...Data loaded\n"
 
 
