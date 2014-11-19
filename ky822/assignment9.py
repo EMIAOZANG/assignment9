@@ -3,7 +3,6 @@ Created on Nov 18, 2014
 
 @author: keye
 '''
-import sys
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
