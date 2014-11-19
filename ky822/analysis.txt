@@ -1,0 +1,2 @@
+From the boxplots of the recent 6 years (2007-2012), we can see that the income per person in Asia and South America has increased while the income per person in North America and Europe is decreasing.
+The distribution of the income per person by each region generally remains the same as shown in the histograms. 
