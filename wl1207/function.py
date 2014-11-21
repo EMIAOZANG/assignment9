@@ -6,6 +6,7 @@ print 'Loading countries.csv as countries'
 countries = pd.read_csv('countries.csv')
 print 'Loading indicator gapminder gdp_per_capita_ppp.xlsx as income.'
 income = pd.read_excel('indicator gapminder gdp_per_capita_ppp.xlsx',sheetname='Data',index_col='gdp pc test').T
+print income.head()
 
 def display(year):
 
