@@ -7,7 +7,7 @@ Created on Mon Nov 17 11:46:43 2014
 
 import pandas as pd
 import matplotlib.pyplot as plt
-
+from exception_list import *
 
 def read_data():
     """
@@ -35,6 +35,12 @@ def income_distribution_plot(income_data,year):
     input a dataframe of income and the year, then draw a histogram to roughly show 
     the distribution of the income of the year, and save the graph as a .png file
     """
+    try:
+        year = int(year)
+    except ValueError:
+        raise not_a_valid_year
+    if (year>2012)or(year<1800):
+        raise year_out_of_range
     income_year = income_data.loc[year]
     plt.figure(figsize=(10,8))
     income_year.hist(bins=100,alpha=0.3,color='k')
@@ -53,6 +59,12 @@ def merge_by_year(countries,income,year):
     and 'Income'
     
     """
+    try:
+        year = int(year)
+    except ValueError:
+        raise not_a_valid_year
+    if (year>2012)or(year<1800):
+        raise year_out_of_range
     income_year = income.loc[year]
     income_year_df = pd.DataFrame(income_year)
     income_year_reset = income_year_df.reset_index()
@@ -68,6 +80,13 @@ def data_explore(dataset,year,mode):
     mode=='h' : histogram
     mode=='b' : boxplot
     """
+    try:
+        year = int(year)
+    except ValueError:
+        raise not_a_valid_year
+    if (year>2012)or(year<1800):
+        raise year_out_of_range
+    
     if mode == 'h':
         dataset.hist(by='Region',figsize=(10,8),bins=30,alpha=0.3,color='k')
         plt.savefig('income histogram of year %s by region.png'% (year))
@@ -76,7 +95,7 @@ def data_explore(dataset,year,mode):
         plt.title(str(year))
         plt.savefig('income boxplot of year %s by region.png'% (year))
     else:
-        raise Exception
+        raise invalid_plot_mode
  
 
 def trend_plot(countries,income,mode,year_start):
