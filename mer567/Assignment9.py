@@ -6,6 +6,7 @@
 #                           #
 #############################
 
+""" Formatting for doc strings was done according to google style guide https://google-styleguide.googlecode.com/svn/trunk/pyguide.html"""
 from pylab import rcParams
 from collections import defaultdict
 import pandas as pd
