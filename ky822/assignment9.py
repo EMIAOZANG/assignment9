@@ -29,9 +29,12 @@ def main():
     print '--------Question 3--------'
     while True:
         try:
+            #Input an integer to be a year value.
             year = eval(raw_input('Input a year: '))
+            #Check if the input is an integer. If not, raise an exception and input again.
             if type(year) != int:
                 raise InvalidYearValue()
+            #Check if the input is between 1800 and 2012. If not, raise an exception and input again.
             elif year<1800 or year>2012:
                 raise InvalidYearRange()
             break
@@ -43,6 +46,7 @@ def main():
         except InvalidYearRange:
             print 'Oops! The input year value should be in the range of 1800 to 2012! Please try again.'
     print 'Question 3: Display the distribution of income per person across all countries in the world for {} :\n'.format(year)
+    #Creat the plot of the distribution(income per person across all countries) for any given year between 1800 and 2012.
     plot (year) 
     print '\nFinished!'
     print '----------------------------------------------------------------------- \n'
@@ -51,9 +55,12 @@ def main():
     print '--------Question 4--------'
     while True:
         try:
+            #Input an integer to be a year value.
             year = eval(raw_input('Input a year: '))
+            #Check if the input is an integer. If not, raise an exception and input again.
             if type(year) != int:
                 raise InvalidYearValue()
+            #Check if the input is between 1800 and 2012. If not, raise an exception and input again.
             elif year<1800 or year>2012:
                 raise InvalidYearRange()
             break
@@ -65,6 +72,7 @@ def main():
         except InvalidYearRange:
             print 'Oops! The input year value should be in the range of 1800 to 2012! Please try again.'
     print 'Question 4: Merge the countries and income data sets for {}: \n'.format(year)
+    #Merge the countries and income data sets for any given year between 1800 and 2012.
     print merge_by_year(year) 
     print '\nFinished!'
     print '----------------------------------------------------------------------- \n'
@@ -78,6 +86,7 @@ def main():
         plt.savefig('histogram for year {}'.format(year))
         boxplots(merge_by_year(year))
         plt.savefig('boxplot for year {}'.format(year)) 
+    #Write a description of the changes(distribution of the income per person by region) through the recent years.
     analysis()  
     print '\nFinished!'
     
