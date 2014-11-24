@@ -54,7 +54,7 @@ def histograms(df):
     """
     
     plt.figure()
-    df.hist('Income',by=df['Region'],bins=40, xrot=60, figsize = [10,10])
+    df.hist('Income',by=df['Region'], bins=40, xrot=60, xlabelsize=6)
     plt.ylabel('Number of Countries')
     plt.xlabel('Income per Person')
 
